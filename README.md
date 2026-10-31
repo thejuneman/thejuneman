@@ -5,7 +5,7 @@ and tools. **Open for commissions:** message me on Discord, **@thejuneman**.
 
 ## FPV Strike
 
-![FPV Strike: a rocket salvo breaching the house wall](https://raw.githubusercontent.com/thejuneman/fpv-strike/main/docs/gifs/breach.gif)
+https://github.com/user-attachments/assets/a583cf6f-1c19-48cf-bceb-75f41b6c36f5
 
 An FPV strike drone with a real flight model, guided missiles, SAM sites that shoot back, a
 goggles-style OSD and a replay system with cinematic cameras.
