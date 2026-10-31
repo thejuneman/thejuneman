@@ -9,7 +9,8 @@ and tools. **Open for commissions:** message me on Discord, **@thejuneman**.
 
 An FPV strike drone with a real flight model, guided missiles, SAM sites that shoot back, a
 goggles-style OSD and a replay system with cinematic cameras.
-**[Code, write-up and more clips →](https://github.com/thejuneman/fpv-strike)**
+**[Play it on Roblox](https://www.roblox.com/games/131319634104165)** ·
+**[Code, write-up and more clips](https://github.com/thejuneman/fpv-strike)**
 
 | | |
 |---|---|
